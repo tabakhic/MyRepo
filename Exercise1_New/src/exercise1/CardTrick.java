@@ -44,7 +44,7 @@ public class CardTrick {
      * replace this information with your own.
      * @author Cyrus Tabakhi Jan 2023
      */
-    
+    //done
     private static void printInfo() {
     
         System.out.println("Congratulations, you guessed right!");
@@ -58,11 +58,11 @@ public class CardTrick {
         System.out.println("-- To start my day of right by following a set routine");
 	System.out.println();	
 
-        System.out.println("My hobbies:");
-        System.out.println("-- Learning");
-        System.out.println("-- Theology");
-        System.out.println("-- Reading/Watching TV");
-        System.out.println("-- Riding a Bike");
+        System.out.println("My hobbies!!!!!!:");
+        System.out.println("-- Learning!!!!");
+        System.out.println("-- Theology!!!!!");
+        System.out.println("-- Reading/Watching TV!!!!");
+        System.out.println("-- Cooking");
 
         System.out.println();
         
